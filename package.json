@@ -1,0 +1,22 @@
+{
+    "name": "duotone-sea",
+    "displayName": "duotone-sea",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Kutimotitokura",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "duotone-sea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/duotone-sea-color-theme.json"
+            }
+        ]
+    }
+}
