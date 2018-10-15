@@ -1,5 +1,5 @@
 {
-	"name" : "duotone-sea",
+	"name" : "duotone-sea-hard",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#1d262f",
@@ -13,8 +13,8 @@
 		"activityBar.foreground": "#34febb",
 		"activityBar.border": "#34FEBB",
 		//"activityBar.inactiveForeground": "#ffffff99",
-		//"activityBarBadge.background": "#007acc",
-		//"activityBarBadge.foreground": "#ffffff",
+		"activityBarBadge.background": "#1d262f",
+		"activityBarBadge.foreground": "#34febb",
 		//"badge.background": "#4d4d4d",
 		//"badge.foreground": "#ffffff",
 		//"breadcrumb.activeSelectionForeground": "#e0e0e0",

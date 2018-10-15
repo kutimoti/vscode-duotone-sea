@@ -13,9 +13,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "duotone-sea",
+                "label": "duotone-sea-hard",
                 "uiTheme": "vs-dark",
-                "path": "./themes/duotone-sea-color-theme.json"
+                "path": "./themes/duotone-sea-hard-color-theme.json"
+            },
+            {
+                "label": "duotone-sea-easy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/duotone-sea-easy-color-theme.json"
+            },
+            {
+                "label": "duotone-sea-bord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/duotone-sea-bord-color-theme.json"
             }
         ]
     }
